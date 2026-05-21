@@ -1,0 +1,33 @@
+# Arduino IDE
+*.tmp
+*.log
+*.eep
+*.elf
+*.map
+*.bin
+*.hex
+*.srec
+*.usersignatures
+
+# IDE config
+preferences.txt
+*.properties
+
+# Agent files
+AGENTS.md
+GEMINI.md
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# .NET
+*.dll
+*.pdb
+*.exe
